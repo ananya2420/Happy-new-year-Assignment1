@@ -1,0 +1,427 @@
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+nav{
+    text-align: center;
+    display: flex;
+}
+/* about banner title*/
+.header{
+    background-color: #FFF8F3;
+    background-image: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Banner Image.png");
+    background-repeat: no repeat;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+}
+
+.banner-greeting{
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.banner-title{
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+}
+
+.banner profile-pic{
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+/*about section style*/
+.section-title{
+color: red;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.section-title2{
+color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.profile{
+width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
+
+.section-title3{
+color: white;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+
+.section-description{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.btn-primary{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.profile2{
+width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+
+.container2{
+color: black;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+
+.container1{
+color: red;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+
+.btn-primary2{
+color: red;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+/*offer part statred*/
+
+.offer-granting{
+color: red;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.offer-title{
+color: black;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.offer-description{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.profile3{
+border-radius: 364.844px;
+background-image: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Ellipse 1.png");
+background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+}
+
+
+.year-title{
+color: red;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.year-description{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.profile4{
+background-image: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Group 96.png");
+width: 140px;
+height: 140px;
+flex-shrink: 0;
+}
+
+
+.h3{
+color: black;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.functional{
+color: red;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+} 
+
+.sale-title2{
+color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.dolor-description{
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+}
+
+.profile5{
+    border-radius: 16px 16px 0px 0px;
+    background-image:url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 1.png");
+    background-repeat: no repeat;
+    }
+
+    .profile6{
+        border-radius: 16px 0px 16px 16px;
+        background: #F00;
+        background-image:url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 2.png");
+        width: 1320px;
+        height: 229px;
+        flex-shrink: 0;
+    }
+
+    .profile7{
+        background-image:url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Group 75.png");
+        width: 98.77px;
+        height: 145.319px;
+        flex-shrink: 0;
+    }
+    .profile8{
+
+        background-color: #F00;
+        background-image:url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Group 44.png");
+    }
+
+.gift{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.portfolio-title{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.dolor-description2{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.image1{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 3.png"), lightgray 0px -35.755px / 100% 142.115% no-repeat;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+}
+
+.image2{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 4.png");
+    background-repeat: no-repeat;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+
+}
+.image3{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 5.png"), lightgray 50% / cover no-repeat;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+}
+.image4{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 6.png"), lightgray -195.366px 0px / 156.077% 100% no-repeat;
+
+}
+.image5{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 7.png"), lightgray 50% / cover no-repeat;
+}
+.image6{
+    border-radius: 16px;
+    background: url("../images/c:\Users\User\Documents\B9A1-New-Year-New-Mission-main\resources\Rectangle 8.png"), lightgray 50% / cover no-repeat;
+}
+
+.image7{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+}
+
+.subscribe{
+    
+color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.dolor-description3{
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+
+.input{
+width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+}
+.input type{
+color: rgba(7, 2, 17, 0.30);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.subscribe{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.portfolio9{
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+}
+
+.section-title{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+
+.facebook,.instagram,.twitter,.linkdin{
+width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+
+.contact,.website{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+
+.btn-primary{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
